@@ -1,11 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import me from './me.png';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <img src={me} alt="Nicholas Tai"/>
       <small>Nicholas Tai</small>
       <small>ntai@berkeley.edu</small>
       <a href="https://www.linkedin.com/in/nicholas-tai-698b20132/">LinkedIn</a>
