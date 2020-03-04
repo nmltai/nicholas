@@ -10,7 +10,7 @@ function App() {
       <small>ntai@berkeley.edu</small>
       <a href="https://www.linkedin.com/in/nicholas-tai-698b20132/">LinkedIn</a>
       <a href="https://github.com/nmltai">GitHub</a>
-      <a href="https://drive.google.com/file/d/1jl7pXym_NUTA6El-C3LVJHC_AdVEjzGK/view?usp=sharing">Resume</a>
+      <a href="https://drive.google.com/file/d/1a7OqXy_OPsQi7eUend5XQYLMznJb5exr/view?usp=sharing">Resume</a>
       </header>
     </div>
   );
